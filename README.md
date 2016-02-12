@@ -42,3 +42,6 @@ Day Plan
 * Mandatory fun at 3:30.
 * 5:30 stand-up.
 * 9pm guilt free home time.
+
+[Learning Objectives](learning-objectives.md)
+---------------------------------------------
